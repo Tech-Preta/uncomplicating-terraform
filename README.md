@@ -40,11 +40,11 @@ Aqui estão alguns recursos adicionais que podem me ajudar a me aprofundar no Te
 
 - [Site oficial do Terraform](https://www.terraform.io/)
 - [Documentação do Terraform](https://www.terraform.io/docs/)
-- [Comunidade Terraform no HashiCorp Discuss](https://discuss.hashicorp.com/c/terraform/13)
-- [LINUXTips](https://www.linuxtips.io.br/)
+- [Comunidade Terraform no HashiCorp Discuss](https://discuss.hashicorp.com)
+- [LINUXTips](https://www.linuxtips.io)
 
 Aproveite o curso e minha jornada para me tornar um mestre em Terraform!
 
 ---
 
-**LINUXTips**: [Site](https://www.linuxtips.io.br/) | [YouTube](https://www.youtube.com/linuxtipsoficial) | [Twitter](https://twitter.com/linuxtips)
+**LINUXTips**: [Site](https://www.linuxtips.io) | [YouTube](https://www.youtube.com/linuxtipsoficial) | [Twitter](https://twitter.com/LINUXtipsBR)
