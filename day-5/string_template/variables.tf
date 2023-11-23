@@ -27,4 +27,3 @@ variable "subnet_id" {
   type        = string
   default     = "subnet-0cd0d31a2dc5fea93" # Substitua pelo ID da Subnet desejada ou remova o valor padrão
 }
-
